@@ -1,0 +1,28 @@
+# Spring Boot configuration containing database credentials
+backend/Car/src/main/resources/application.properties
+
+# React
+frontend/car-frontend/node_modules/
+frontend/car-frontend/dist/
+frontend/car-frontend/.env
+frontend/car-frontend/.env.local
+
+# Spring Boot
+backend/Car/target/
+backend/Car/.classpath
+backend/Car/.project
+backend/Car/.settings/
+backend/Car/.factorypath
+backend/Car/.springBeans
+backend/Car/.sts4-cache/
+
+# IntelliJ / IDE
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Environment / secrets
+.env
+*.env
